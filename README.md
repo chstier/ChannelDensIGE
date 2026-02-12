@@ -1,6 +1,6 @@
 # ChannelDensIGE
 
-Code in support of the work "Comprehensive evaluation of EEG spatial sampling, head modeling, and parcellation effects on network alterations in idiopathic generalized epilepsy" 
+Code in support of the work by Stier, C., Loose, M., Loew, C., Segovia-Oropeza, M., Baek, S., Lerche, H., & Focke, N. K. (2026). Comprehensive evaluation of EEG spatial sampling, head modeling, and parcellation effects on network alterations in idiopathic generalized epilepsy. Brain Communications, fcag022.
 
 The provided repository contains all relevant scripts for the analyses conducted in the manuscript, but requires some external tools that need to be either placed in the Matlab path, included in the scripts/utilities directory, or the R path.
 External tools and toolboxes
